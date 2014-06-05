@@ -1,5 +1,10 @@
-shall automation
+This is  draft of my thesis fo rmy sceond
+shell automatio
+n
 
+=======
+change sth
+>>>>>>> 360af7e71402d777e8abd636ab4e51d4e7db2053
 wee      wej  jkj;lk
 add more things
 modified things
